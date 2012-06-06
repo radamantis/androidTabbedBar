@@ -1,0 +1,6 @@
+androidTabbedBar
+Feel free to use it, this is the first version of the module, there's a lot of improvements to develop
+
+Module for Titanium Appcelerator to create a Tabbed Bar on Android
+
+Titanium Appcelerator can create tabbed Bar on iOS only, this little javascript module is to create one on Android, into the app.js you can see how to use it, the androidTabbedBar.js file is the javascript module
